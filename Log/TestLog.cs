@@ -11,6 +11,8 @@ namespace YLM.Common.Log
         public static void ConsoleTest()
         {
             Console.WriteLine("Hello,World!");
+
+            Console.WriteLine("Hello,World!");
         }
     }
 }
